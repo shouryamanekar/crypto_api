@@ -23,7 +23,7 @@ Interactive **Streamlit Dashboard**
 ## **Setup Instructions**
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/shouryamanekar/crypto_dashboard.git
+git clone https://github.com/shouryamanekar/crypto_api.git
 cd crypto-dashboard
 ```
 
