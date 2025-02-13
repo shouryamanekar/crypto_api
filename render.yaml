@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: crypto-app
+    env: python
+    buildCommand: |
+      pip install -r requirements.txt
+    startCommand: python crypto_api.py
+    envVars:
+      - key: PORT
+        value: 5000
